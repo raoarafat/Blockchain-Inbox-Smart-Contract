@@ -1,1 +1,36 @@
+
+# Node.js
 node_modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# React build output
+.next/
+out/
+
+# Truffle/Hardhat
+build/
+artifacts/
+cache/
+
+# Environment variables
+.env
+
+# IDEs and editors
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac OS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
